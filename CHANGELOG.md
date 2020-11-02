@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/FelipeHonorio/card/compare/v3.0.0...v4.0.0) (2020-11-02)
+
+
+### Features
+
+* **readme:** change description ([1f6c6b8](https://github.com/FelipeHonorio/card/commit/1f6c6b80cd73062b0e181f7f7573387ffea69e02))
+
+
+### BREAKING CHANGES
+
+* **readme:** test
+
 # [3.0.0](https://github.com/FelipeHonorio/card/compare/v2.0.0...v3.0.0) (2020-11-02)
 
 
