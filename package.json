@@ -19,7 +19,7 @@
     "semantic-release": "semantic-release"
   },
   "keywords": [],
-  "author": "Americo Neto <americoneto1@gmail.com>",
+  "author": "Felipe Honório <felipe.h.camargo@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.2.0",
