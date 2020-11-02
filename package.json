@@ -1,8 +1,8 @@
 {
-  "name": "@americoneto1/card",
-  "version": "1.0.3",
+  "name": "@felipehonorio/card",
+  "version": "0.0.1",
   "private": false,
-  "description": "A personal card for Americo Neto",
+  "description": "A personal card for Felipe Honório",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/americoneto1/card.git"
+    "url": "https://github.com/FelipeHonorio/card.git"
   },
   "scripts": {
     "commit": "git-cz",
