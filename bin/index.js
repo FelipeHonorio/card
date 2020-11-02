@@ -33,7 +33,6 @@ const data = {
 const newline = '\n';
 const heading = `${data.name} ${data.handle}`;
 const working = `${data.labelWork}  ${data.work}`;
-const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
 const carding = `${data.labelCard}  ${data.npx}`;
@@ -44,7 +43,6 @@ const output = heading
   + newline
   + working
   + newline
-  + twittering
   + newline
   + githubing
   + newline
