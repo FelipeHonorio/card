@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/FelipeHonorio/card/compare/v4.0.0...v4.0.1) (2020-11-02)
+
+
+### Bug Fixes
+
+* **card:** remove referece twitter ([7d83392](https://github.com/FelipeHonorio/card/commit/7d833929941ab1f8c4b5a155b183fee90f7a4945))
+
 # [4.0.0](https://github.com/FelipeHonorio/card/compare/v3.0.0...v4.0.0) (2020-11-02)
 
 

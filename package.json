@@ -1,6 +1,6 @@
 {
   "name": "@felipehonorio/card",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "private": false,
   "description": "A personal card for Felipe Honório",
   "main": "index.js",
